@@ -1,4 +1,4 @@
-package com.globalacademy.chessgame.gui.screen;
+package gui.screen;
 
 import java.awt.*;
 import java.awt.event.ComponentAdapter;

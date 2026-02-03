@@ -1,4 +1,4 @@
-package com.globalacademy.chessgame.gui.screen;
+package gui.screen;
 
 // import com.globalacademy.finalChess.network.TcpClient;
 // import com.globalacademy.finalChess.network.TcpServer;

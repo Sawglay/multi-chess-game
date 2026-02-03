@@ -1,4 +1,4 @@
-package com.globalacademy.chessgame.gui.screen;
+package gui.screen;
 
 import javax.swing.SwingUtilities;
 /*Its only job is to start up the Graphical User Interface */
