@@ -13,6 +13,6 @@ import javax.swing.SwingUtilities;
 
 public class Main {
     public static void main(String[] args) {/* This line ensures that our user interface is created on the correct thread, */
-        // SwingUtilities.invokeLater(() -> new ModePicker().setVisible(true));
+        SwingUtilities.invokeLater(() -> new ModePicker().setVisible(true));
     }
 }
