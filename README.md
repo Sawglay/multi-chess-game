@@ -77,3 +77,5 @@ Ensure that both host and client run from the same WLAN or have proper firewall/
 ## Conclusion  
 
 **SimpleChess** is more than just a playable game: it is a demonstration of how traditional board games can be modeled in code through clean abstractions, natural UI design, and practical networking. By combining object-oriented design with user interface programming and TCP communication, the project highlights the versatility of Java for building interactive applications. While simplified, it captures the essence of chess and provides a solid foundation for further enhancements such as timers, player profiles, or AI opponents.  
+
+## License
